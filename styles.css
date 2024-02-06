@@ -48,3 +48,8 @@
 .btn:hover{
    cursor: pointer;
 }
+
+.main p{
+    text-align: center;
+    margin-top: 40px;
+}
